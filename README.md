@@ -1,4 +1,4 @@
-# xhs-marketing
+# 小红书矩阵账号营销系统
 
 一款专为小红书矩阵账号营销设计的工具，支持小红书评论｜ 小红书爬虫｜小红书数据采集｜小红自动私信｜小红书矩阵管理｜小红书自动回复评论｜小红书点赞｜小红书收藏。集养号、数据采集、自动化任务和数据分析于一体，配备自研指纹浏览器，保障账号安全与高效运营,兼容automa工作流，可视化高效设计工作流
 
@@ -31,14 +31,15 @@
 ## 产品截图
 
 ### 账号管理
-![账号管理](https://shiliuhaomiao.oss-cn-beijing.aliyuncs.com/32DEA580-DA3D-4CFE-994D-D6F69D18FB92.png)
+
+![账号管理](https://github.com/slalx/xhs-marketing/raw/main/images/32DEA580-DA3D-4CFE-994D-D6F69D18FB92.png)
 
 ### 任务管理
-![任务管理](https://shiliuhaomiao.oss-cn-beijing.aliyuncs.com/B2FD55B1-DBAD-4A81-842A-921E36A4E3AF.png)
+![任务管理](https://github.com/slalx/xhs-marketing/raw/main/images/B2FD55B1-DBAD-4A81-842A-921E36A4E3AF.png)
 
 ## 免费试用
 
 立即联系我们，免费领取试用版软件！  
-![二维码](https://shiliuhaomiao.oss-cn-beijing.aliyuncs.com/IMG_3998.JPG)
+![二维码](https://github.com/slalx/xhs-marketing/raw/main/images/IMG_3998.JPG)
 
 📩 **微信**：`zslslalx`
