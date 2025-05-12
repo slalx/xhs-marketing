@@ -35,11 +35,13 @@
 <img src="https://raw.githubusercontent.com/slalx/xhs-marketing/main/images/32DEA580-DA3D-4CFE-994D-D6F69D18FB92.png" />
 
 ### 任务管理
-![任务管理](https://github.com/slalx/xhs-marketing/raw/main/images/B2FD55B1-DBAD-4A81-842A-921E36A4E3AF.png)
+
+<img src="https://raw.githubusercontent.com/slalx/xhs-marketing/main/images/B2FD55B1-DBAD-4A81-842A-921E36A4E3AF.png" />
 
 ## 免费试用
 
-立即联系我们，免费领取试用版软件！  
-![二维码](https://github.com/slalx/xhs-marketing/raw/main/images/IMG_3998.JPG)
+立即联系我们，微信扫一扫，免费领取试用版软件！  
+
+<img src="https://raw.githubusercontent.com/slalx/xhs-marketing/main/images/IMG_3998.JPG" />
 
 📩 **微信**：`zslslalx`
