@@ -42,6 +42,6 @@
 
 立即联系我们，微信扫一扫，免费领取试用版软件！  
 
-<img src="https://raw.githubusercontent.com/slalx/xhs-marketing/main/images/IMG_3998.JPG" />
+<img src="https://raw.githubusercontent.com/slalx/xhs-marketing/main/images/IMG_4071.JPG" />
 
 📩 **微信**：`zslslalx`
